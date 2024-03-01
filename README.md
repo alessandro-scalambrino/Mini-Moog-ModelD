@@ -14,3 +14,5 @@ This project is a digital emulation of the iconic Minimoog Model D synthesizer, 
 ## Requirements
 - Python 3.x
 - Pyo library
+## Credits
+This project was developed by [Alessandro Scalambrino](https://github.com/alessandro-scalambrino)
